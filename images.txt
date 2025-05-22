@@ -1,4 +1,4 @@
-ghcr.io/canner/wren-bootstrap:0.1.5
+ghcr.io/canner/wren-bootstrap
 ghcr.io/canner/wren-engine:0.15.13
 ghcr.io/canner/wren-engine-ibis:0.15.13
 ghcr.io/canner/wren-ai-service:0.22.4
