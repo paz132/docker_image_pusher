@@ -4,3 +4,4 @@ ghcr.io/canner/wren-engine-ibis
 ghcr.io/canner/wren-ai-service
 qdrant/qdrant
 ghcr.io/canner/wren-ui
+mzz2017/v2raya
