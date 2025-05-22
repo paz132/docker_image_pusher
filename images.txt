@@ -1,6 +1,6 @@
 ghcr.io/canner/wren-bootstrap
-ghcr.io/canner/wren-engine:0.15.13
-ghcr.io/canner/wren-engine-ibis:0.15.13
-ghcr.io/canner/wren-ai-service:0.22.4
+ghcr.io/canner/wren-engine
+ghcr.io/canner/wren-engine-ibis
+ghcr.io/canner/wren-ai-service
 qdrant/qdrant:1.11.0
-ghcr.io/canner/wren-ui:0.27.4
+ghcr.io/canner/wren-ui
